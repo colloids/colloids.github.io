@@ -22,118 +22,17 @@ title: Colloid Physics on the International Space Station
   <div class="container">
   	<div class="row portfolioContainer">
 
+  		{% for post in site.posts %}
+
 	  	<div class="col-sm-3 objects">
-        <a href="#">
+        <a href="{{ post.url }}">
   	  		<div class="circle" style="background-image:url('img/1.png');">
-            <p><span class="date">Sept. 9</span>
-            During operations, NASA eliminates our funding for the rest of the year</p>
+            <p><span class="date">{{ page.date | date: '%B %d }}</span>{{ post.title }}</p>
           </div>
         </a>
 	  	</div>
-	  	<div class="col-sm-3 people">
-        <a href="#">
-  	  		<div class="circle" style="background-image:url('img/2.png');">
-            <p><span class="date">Sept. 9</span>
-            Significant science, slower phase separation in ACE than in BCAT-KP</p>
-          </div>
-        </a>
-	  	</div>
-	  	<div class="col-sm-3 places">
-        <a href="#">
-  	  		<div class="circle" style="background-image:url('img/3.png');">
-            <p><span class="date">Sept. 9</span>
-            Same sample, different behavior?</p>
-          </div>
-        </a>
-	  	</div>
-	  	<div class="col-sm-3 food">
-        <a href="#">
-  	  		<div class="circle" style="background-image:url('img/1.png');">
-            <p><span class="date">Sept. 9</span>
-            Significant science, gelation and phase separation</p>
-          </div>
-        </a>
-	  	</div>
-	  	<div class="col-sm-3 objects">
-        <a href="#">
-  	  		<div class="circle" style="background-image:url('img/2.png');">
-            <p><span class="date">Sept. 9</span>
-            On-orbit challenges, broken LMM lamp</p>
-          </div>
-        </a>
-	  	</div>
-	  	<div class="col-sm-3 places">
-        <a href="#">
-  	  		<div class="circle" style="background-image:url('img/3.png');">
-            <p><span class="date">Sept. 9</span>
-             Converting the website to documents</p>
-          </div>
-        </a>
-	  	</div>
-	  	<div class="col-sm-3 food">
-        <a href="#">
-  	  		<div class="circle" style="background-image:url('img/1.png');">
-            <p><span class="date">Sept. 9</span>
-            Building a website from a few dozen lines of code</p>
-          </div>
-        </a>
-	  	</div>
-      <div class="col-sm-3 people">
-        <a href="#">
-          <div class="circle" style="background-image:url('img/2.png');">
-            <p><span class="date">Sept. 9</span>
-            During operations, NASA eliminates our funding for the rest of the year</p>
-          </div>
-        </a>
-      </div>
-      <div class="col-sm-3">
-        <a href="#">
-          <div class="circle" style="background-image:url('img/3.png');">
-            <p><span class="date">Sept. 9</span>
-            Significant science, slower phase separation in ACE than in BCAT-KP</p>
-          </div>
-        </a>
-      </div>
-      <div class="col-sm-3">
-        <a href="#">
-          <div class="circle" style="background-image:url('img/1.png');">
-            <p><span class="date">Sept. 9</span>
-            Same sample, different behavior?</p>
-          </div>
-        </a>
-      </div>
-      <div class="col-sm-3">
-        <a href="#">
-          <div class="circle" style="background-image:url('img/2.png');">
-            <p><span class="date">Sept. 9</span>
-            Significant science, gelation and phase separation</p>
-          </div>
-        </a>
-      </div>
-      <div class="col-sm-3">
-        <a href="#">
-          <div class="circle" style="background-image:url('img/3.png');">
-            <p><span class="date">Sept. 9</span>
-            On-orbit challenges, broken LMM lamp</p>
-          </div>
-        </a>
-      </div>
-      <div class="col-sm-3">
-        <a href="#">
-          <div class="circle" style="background-image:url('img/1.png');">
-            <p><span class="date">Sept. 9</span>
-             Converting the website to documents</p>
-          </div>
-        </a>
-      </div>
-      <div class="col-sm-3">
-        <a href="#">
-          <div class="circle" style="background-image:url('img/2.png');">
-            <p><span class="date">Sept. 9</span>
-            Building a website from a few dozen lines of code</p>
-          </div>
-        </a>
-      </div>
+	  	
+	  	{% endfor %}
 
     </div> <!-- /.row -->
   </div> <!-- /.container -->
