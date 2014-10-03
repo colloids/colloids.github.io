@@ -67,8 +67,22 @@ article, .isotope {
   margin-bottom:50px !important;
 }
 
+article {
+  margin-top:15px;
+}
+
 article img {
   max-width:100%;
+}
+
+h1 {
+  font-size:28px;
+  margin-bottom:20px;
+}
+
+h2 {
+  font-size:24px;
+  margin-bottom:10px;
 }
 
 
