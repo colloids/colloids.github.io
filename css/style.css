@@ -63,7 +63,7 @@ a:hover {
   padding-left:0;
 }
 
-article {
+article, .porfolioContainer {
   margin-bottom:50px;
 }
 
