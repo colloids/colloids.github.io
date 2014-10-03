@@ -63,8 +63,8 @@ a:hover {
   padding-left:0;
 }
 
-article, .porfolioContainer {
-  margin-bottom:50px;
+article, .isotope {
+  margin-bottom:50px !important;
 }
 
 
