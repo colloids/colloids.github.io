@@ -63,6 +63,10 @@ a:hover {
   padding-left:0;
 }
 
+article {
+  margin-bottom:50px;
+}
+
 
 /* Header and Footer */
 
@@ -246,10 +250,6 @@ a:hover {
   color:#411e4f;
   display:block;
   margin-bottom:2px;
-}
-
-.portfolioContainer {
-  margin-bottom:50px;
 }
  
 .isotope-item {
