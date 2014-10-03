@@ -76,7 +76,7 @@ article img {
 
 .header,
 .footer {
-  background:#a894b0;
+  background:#608eb9;
   font-weight:300;
   letter-spacing:.5px;
   opacity:.9;
@@ -204,14 +204,14 @@ article img {
 }
 
 .sort a{
-  color:#8b7095;
+  color:#608eb9;
   text-decoration:none;
 }
 
 .sort a:hover,
 .sort a:active,
 .sort a:visited {
-  color:#a894b0;
+  color:#648eb5;
 }
 
 .col-sm-3 {
@@ -251,7 +251,7 @@ article img {
 }
 
 .date {
-  color:#411e4f;
+  color:#0c5498;
   display:block;
   margin-bottom:2px;
 }
