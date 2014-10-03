@@ -67,6 +67,10 @@ article, .isotope {
   margin-bottom:50px !important;
 }
 
+article img {
+  max-width:100%;
+}
+
 
 /* Header and Footer */
 
