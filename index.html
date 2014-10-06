@@ -15,7 +15,12 @@ title: Colloid Physics on the International Space Station
 
 <div class="container">
     <div class="row sort">
-      <p>Sort by:&nbsp; <a href="#" data-filter="*" class="current">All</a> &nbsp;&nbsp;/&nbsp;&nbsp; <a href="#" data-filter=".people">Category 1</a> &nbsp;&nbsp;/&nbsp;&nbsp; <a href="#" data-filter=".places">Category 2</a> &nbsp;&nbsp;/&nbsp;&nbsp; <a href="#" data-filter=".food">Category 3</a></p>
+      <p>Sort by:&nbsp;
+        <a href="#" data-filter="*" class="current">All</a>
+      {% for category in site.categories %}
+        <a href="#" data-filter=".{{ category }}">{{ category }}</a>
+      {% endfor %}
+      </p>
     </div>
   </div>
 
