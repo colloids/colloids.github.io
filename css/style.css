@@ -251,6 +251,10 @@ h3 {
 
 .circle:hover {
   opacity:.9;
+}
+
+.circle:hover a,
+.circle:hover p {
   text-decoration:none;
 }
 
@@ -264,10 +268,6 @@ h3 {
   font-size:12.5px;
   letter-spacing:.5px;
   color:#000;
-}
-
-.circle a:hover {
-  text-decoration:none;
 }
 
 .date {
