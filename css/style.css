@@ -251,6 +251,7 @@ h3 {
 
 .circle:hover {
   opacity:.9;
+  text-decoration:none;
 }
 
 .circle > p { 
