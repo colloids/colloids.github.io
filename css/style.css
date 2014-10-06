@@ -182,6 +182,10 @@ h3 {
   color:#777;
 }
 
+.ticker a:hover {
+  text-decoration:none;
+}
+
 .carousel-content {
   margin-top:10px;
   margin-bottom:10px;
@@ -259,6 +263,10 @@ h3 {
   font-size:12.5px;
   letter-spacing:.5px;
   color:#000;
+}
+
+.circle a:hover {
+  text-decoration:none;
 }
 
 .date {
