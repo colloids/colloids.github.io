@@ -2,7 +2,7 @@
 layout: post
 date: 2014-06-04 0:15:30 UTC
 title: First images of ACE-M2 samples
-category: Category 1
+category: Category1
 image: images/homepage/bg-1.png
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 date: 2014-03-05 0:00:00 UTC
 title: Samples for the second ACE experiment, ACE-M2
-category: Category 3
+category: Category3
 image: images/homepage/bg-3.png
 ---
 

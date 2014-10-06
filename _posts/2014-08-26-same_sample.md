@@ -2,7 +2,7 @@
 layout: post
 date: 2014-08-26 0:15:30 UTC
 title: Same sample, different behavior?
-category: Category 3
+category: Category3
 image: images/homepage/bg-3.png
 ---
 

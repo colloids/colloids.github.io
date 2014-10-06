@@ -2,7 +2,7 @@
 layout: post
 date: 2014-03-06 0:00:00 UTC
 title: ACE-M2 sample layout
-category: Category 1
+category: Category1
 image: images/homepage/bg-1.png
 ---
 

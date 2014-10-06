@@ -2,7 +2,7 @@
 layout: post
 date: 2014-08-03 0:00:00 UTC
 title: Converting the website to documents
-category: Category 2
+category: Category2
 image: images/homepage/bg-2.png
 ---
 

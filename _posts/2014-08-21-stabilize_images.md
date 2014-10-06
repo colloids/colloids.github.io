@@ -2,7 +2,7 @@
 layout: post
 date: 2014-08-21 0:15:30 UTC
 title: Image stabilization and filtering
-category: Category 1
+category: Category1
 image: images/homepage/bg-1.png
 ---
 
