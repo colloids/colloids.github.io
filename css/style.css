@@ -254,8 +254,9 @@ h3 {
 }
 
 .circle:hover a,
-.circle:hover p {
-  text-decoration:none;
+.circle:hover p,
+.circle:hover a:hover {
+  text-decoration:none !important;
 }
 
 .circle > p { 
