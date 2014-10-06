@@ -53,9 +53,17 @@ body {
 }
 
 a,
-a:hover {
+a:visited {
+  color:#6190bc;
   text-decoration:none;
 }
+
+a:hover,
+a:active {
+  color:#648eb5;
+  text-decoration:underline;
+}
+
 
 .container,
 .row {
@@ -215,17 +223,6 @@ h3 {
 .sort {
   margin:25px 0;
   font-size:12px;
-}
-
-.sort a{
-  color:#6190bc;
-  text-decoration:none;
-}
-
-.sort a:hover,
-.sort a:active,
-.sort a:visited {
-  color:#648eb5;
 }
 
 .col-sm-3 {
