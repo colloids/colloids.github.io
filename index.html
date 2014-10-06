@@ -18,7 +18,7 @@ title: Colloid Physics on the International Space Station
       <p>Sort by:&nbsp;
         <a href="#" data-filter="*" class="current">All</a>
       {% for category in site.categories %}
-        &nbsp;&nbsp;/&nbsp;&nbsp;<a href="#" data-filter=".{{ category | first }}">{{ category | first | capitalize }}</a>
+        &nbsp;&nbsp;/&nbsp;&nbsp;<a href="#" data-filter=".{{ category | first | handleize }}">{{ category | first | capitalize }}</a>
       {% endfor %}
       </p>
     </div>
@@ -29,7 +29,7 @@ title: Colloid Physics on the International Space Station
 
   		{% for post in site.posts %}
 
-	  	<div class="col-sm-3 {{ post.categories | join: ' ' }}">
+	  	<div class="col-sm-3 {{ post.categories | join: ' ' | handleize }}">
         <a href="{{ post.url }}">
   	  		<div class="circle" style="background-image:url('{{ post.image }}');">
             <p><span class="date">{{ post.date | date_to_string }}</span>{{ post.title }}</p>
