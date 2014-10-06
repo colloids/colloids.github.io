@@ -2,6 +2,8 @@
 layout: post
 date: 2014-07-15 0:15:30 UTC
 title: Why is it taking so long to post data? Data organization
+category: Category 1
+image: images/homepage/bg-1.png
 ---
 
 # Data organization cannot be defined before the experiment runs

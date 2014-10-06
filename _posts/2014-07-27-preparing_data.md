@@ -2,6 +2,8 @@
 layout: post
 date: 2014-07-27 0:15:30 UTC
 title: First look at some raw data, preliminary stabilization
+category: Category 2
+image: images/homepage/bg-2.png
 ---
 
 # First time sequence data from ISS

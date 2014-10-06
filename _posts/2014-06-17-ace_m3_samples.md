@@ -2,6 +2,8 @@
 layout: post
 date: 2014-06-17 0:00:00 UTC
 title: ACE M3 samples for quantitative microscopy
+category: Category 3
+image: images/homepage/bg-3.png
 ---
 
 # ACE-M3: Quantitative microscopy

@@ -2,7 +2,8 @@
 layout: post
 date: 2014-03-06 0:00:00 UTC
 title: ACE-M2 sample layout
-categories: category-1 category-2
+category: Category 1
+image: images/homepage/bg-1.png
 ---
 
 # Choosing the sample well layout

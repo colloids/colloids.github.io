@@ -2,6 +2,8 @@
 layout: post
 date: 2014-08-01 0:00:00 UTC
 title: Collaborative writing with Linux, LaTeX, Eclipse and git
+category: Category 3
+image: images/homepage/bg-3.png
 ---
 
 # Open-source, free tools for writing, collaboration and publishing
