@@ -53,17 +53,16 @@ body {
 }
 
 a,
-a:visited {
+a:visited,
+a:hover,
+a:active  {
   color:#6190bc;
   text-decoration:none;
 }
 
-a:hover,
-a:active {
-  color:#648eb5;
+article a:hover {
   text-decoration:underline;
 }
-
 
 .container,
 .row {
@@ -229,6 +228,10 @@ h3 {
   font-size:12px;
 }
 
+.sort a:hover {
+  text-decoration:underline;
+}
+
 .col-sm-3 {
   padding-left:10px;
   padding-right:10px;
@@ -251,12 +254,6 @@ h3 {
 
 .circle:hover {
   opacity:.9;
-  text-decoration:none !important;
-}
-
-.circle:hover a,
-.circle:hover p {
-  text-decoration:none !important;
 }
 
 .circle > p { 
