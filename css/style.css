@@ -254,6 +254,11 @@ h3 {
   text-decoration:none !important;
 }
 
+.circle:hover a,
+.circle:hover p {
+  text-decoration:none !important;
+}
+
 .circle > p { 
   display: table-cell; 
   height:175px; 
