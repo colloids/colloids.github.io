@@ -29,7 +29,7 @@ title: Colloid Physics on the International Space Station
 
   		{% for post in site.posts %}
 
-	  	<div class="col-sm-3 {{ post.categories | join: ' ' | replace: ' ','-' }}">
+	  	<div class="col-sm-3 {{ post.categories | join: '  ' | replace: ' ','-' }}">
         <a href="{{ post.url }}">
   	  		<div class="circle" style="background-image:url('{{ post.image }}');">
             <p><span class="date">{{ post.date | date_to_string }}</span>{{ post.title }}</p>
