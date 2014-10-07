@@ -2,70 +2,6 @@
 
 /* Utility Styles */
 
-@media (max-width: 767px) {
-  .container {
-    width:585px;
-    text-align:center;
-    margin-right:auto;
-    margin-left:auto;
-  }
-  .portfolioContainer {
-    width:100%;
-    margin:0;
-  }
-}
-
-@media (max-width: 590px) {
-  .container {
-    width:100%;
-    padding-right:15px;
-    padding-left:15px;
-  }
-
-  .sort {
-    margin-bottom:10px !important;
-  }
-
-  .circle {
-    border-radius:10px !important;
-    margin-bottom:10px !important;
-  }
-
-  .col-sm-3 {
-    width:100%;
-  }
-
-  .circle > p { 
-    display: block !important; 
-    height:auto !important; 
-    width:auto !important; 
-  }
-
-  .carousel-inner {
-    width:90%;
-    margin-right:auto;
-    margin-left:auto;
-  }
-}
-
-@media (min-width: 768px) {
-  .container {
-    width: 750px;
-  }
-}
-
-@media (min-width: 992px) {
-  .container {
-    width: 750px;
-  }
-}
-
-@media (min-width: 1200px) {
-  .container {
-    width: 750px;
-  }
-}
-
 html {
   height: 100%;
 }
@@ -336,4 +272,75 @@ h3 {
     -webkit-transition-property: -webkit-transform, opacity;
     -moz-transition-property: -moz-transform, opacity;
     transition-property: transform, opacity;
+}
+
+
+/* Additional Media Queries */
+
+@media (max-width: 767px) {
+  .container {
+    width:585px;
+    text-align:center;
+    margin-right:auto;
+    margin-left:auto;
+  }
+  .portfolioContainer {
+    width:100%;
+    margin:0;
+  }
+}
+
+@media (max-width: 590px) {
+  .container {
+    width:100%;
+    padding-right:15px;
+    padding-left:15px;
+  }
+
+  .sort {
+    margin-bottom:10px !important;
+  }
+
+  .circle {
+    border-radius:10px !important;
+    margin-bottom:10px !important;
+  }
+
+  .col-sm-3 {
+    width:100%;
+  }
+
+  .circle > p { 
+    display: block !important; 
+    height:auto !important; 
+    width:auto !important; 
+  }
+
+  .carousel-inner {
+    width:90%;
+    margin-right:auto;
+    margin-left:auto;
+  }
+
+  article {
+    text-align:left;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    width: 750px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    width: 750px;
+  }
 }
