@@ -17,8 +17,34 @@
 
 @media (max-width: 590px) {
   .container {
-    width:400px;
-    text-align:center;
+    width:100%;
+    padding-right:15px;
+    padding-left:15px;
+  }
+
+  .sort {
+    margin-bottom:10px !important;
+  }
+
+  .circle {
+    border-radius:10px !important;
+    margin-bottom:10px !important;
+  }
+
+  .col-sm-3 {
+    width:100%;
+  }
+
+  .circle > p { 
+    display: block !important; 
+    height:auto !important; 
+    width:auto !important; 
+  }
+
+  .carousel-inner {
+    width:90%;
+    margin-right:auto;
+    margin-left:auto;
   }
 }
 
