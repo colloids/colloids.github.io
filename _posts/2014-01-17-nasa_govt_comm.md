@@ -3,7 +3,7 @@ layout: post
 date: 2014-01-17 0:00:00 UTC
 title: NASA, government's role, and communicating science differently
 category: policy
-image: images/homepage/bg-2.png
+image: images/homepage/140117.png
 ---
 
 # NASA needs to change how it talks about science

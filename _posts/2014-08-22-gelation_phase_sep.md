@@ -3,7 +3,7 @@ layout: post
 date: 2014-08-22 0:15:30 UTC
 title: Significant science, gelation and phase separation
 categories: science operations
-image: images/homepage/bg-2.png
+image: images/homepage/140822.png
 ---
 
 # Gelation and phase separation in attractive colloids

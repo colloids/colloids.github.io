@@ -3,7 +3,7 @@ layout: post
 date: 2014-04-18 0:00:00 UTC
 title: ACE-M2 launched into space
 category: operations
-image: images/homepage/bg-2.png
+image: images/homepage/140418.png
 ---
 
 # ACE-M2 experiment launches into space

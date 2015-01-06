@@ -3,7 +3,7 @@ layout: post
 date: 2014-08-21 0:15:30 UTC
 title: Image stabilization and filtering
 categories: science operations
-image: images/homepage/bg-1.png
+image: images/homepage/140821.png
 ---
 
 # Acquiring and stabilizing image sequences

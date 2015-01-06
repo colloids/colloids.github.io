@@ -3,7 +3,7 @@ layout: post
 date: 2014-07-27 0:15:30 UTC
 title: First look at some raw data, preliminary stabilization
 categories: science operations 
-image: images/homepage/bg-2.png
+image: images/homepage/140727.png
 ---
 
 # First time sequence data from ISS

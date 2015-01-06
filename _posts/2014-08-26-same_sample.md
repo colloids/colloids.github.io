@@ -3,7 +3,7 @@ layout: post
 date: 2014-08-26 0:15:30 UTC
 title: Same sample, different behavior?
 categories: science operations
-image: images/homepage/bg-3.png
+image: images/homepage/140826.png
 ---
 
 # Redundant samples to test reproducibility
