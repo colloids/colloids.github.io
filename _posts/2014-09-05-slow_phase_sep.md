@@ -2,7 +2,7 @@
 layout: post
 date: 2014-09-05 0:00:01 UTC
 title: Significant science, slower phase separation in ACE than in BCAT-KP
-category: Category1
+categories: science operations
 image: images/homepage/bg-1.png
 ---
 

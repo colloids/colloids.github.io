@@ -2,7 +2,7 @@
 layout: post
 date: 2014-08-22 0:15:30 UTC
 title: Significant science, gelation and phase separation
-category: Category2
+categories: science operations
 image: images/homepage/bg-2.png
 ---
 

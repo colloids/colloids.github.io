@@ -2,7 +2,7 @@
 layout: post
 date: 2014-03-06 0:00:00 UTC
 title: ACE-M2 sample layout
-category: Category1
+categories: science operations
 image: images/homepage/bg-1.png
 ---
 

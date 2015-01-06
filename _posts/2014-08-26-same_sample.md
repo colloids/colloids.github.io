@@ -2,7 +2,7 @@
 layout: post
 date: 2014-08-26 0:15:30 UTC
 title: Same sample, different behavior?
-category: Category3
+categories: science operations
 image: images/homepage/bg-3.png
 ---
 

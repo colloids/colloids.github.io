@@ -2,7 +2,7 @@
 layout: post
 date: 2014-07-14 0:15:30 UTC
 title: ACE-M2 run 4, first phase-separation images
-category: Category3
+categories: science operations
 image: images/homepage/bg-3.png
 ---
 

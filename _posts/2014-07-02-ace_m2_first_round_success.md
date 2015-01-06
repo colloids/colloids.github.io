@@ -2,7 +2,7 @@
 layout: post
 date: 2014-07-02 0:00:00 UTC
 title: ACE-M2 runs 1 and 2 success summary
-category: Category2
+categories: science operations
 image: images/homepage/bg-2.png
 ---
 

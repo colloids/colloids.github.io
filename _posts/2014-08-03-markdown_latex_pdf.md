@@ -2,7 +2,7 @@
 layout: post
 date: 2014-08-03 0:00:00 UTC
 title: Converting the website to documents
-category: Category2
+category: informatics
 image: images/homepage/bg-2.png
 ---
 

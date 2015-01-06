@@ -2,7 +2,7 @@
 layout: post
 date: 2014-06-04 0:13:00 UTC
 title: ACE-M2 starting operations
-category: Category2
+category: operations
 image: images/homepage/bg-2.png
 ---
 

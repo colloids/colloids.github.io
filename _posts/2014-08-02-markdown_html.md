@@ -2,7 +2,7 @@
 layout: post
 date: 2014-08-02 0:00:00 UTC
 title: Building a website from a few dozen lines of code
-category: Category1
+category: informatics
 image: images/homepage/bg-1.png
 ---
 

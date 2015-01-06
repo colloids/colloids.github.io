@@ -2,7 +2,7 @@
 layout: post
 date: 2014-06-04 0:15:30 UTC
 title: First images of ACE-M2 samples
-category: Category1
+categories: operations science
 image: images/homepage/bg-1.png
 ---
 
